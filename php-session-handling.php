@@ -2,8 +2,8 @@
 /*
 Plugin Name: PHP Session Handling
 Plugin URI: http://www.eastbaywebshop.com
-Description: Provides initial integration to do Drupal-like session handling for WordPress
-Version: 1.00
+Description: A full, but still alpha, implementation of custom PHP session handlers for WordPress.ss
+Version: 1.3
 Author: Michael Pirog
 Author URI: http://www.eastbaywebshop.com
 */
